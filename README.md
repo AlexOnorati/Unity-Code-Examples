@@ -10,4 +10,4 @@ Player State Machine: Is a basic player controller for topdown games. (2016)
 
 Turnbased engine (start of): Contains scripts to generate characters, enemies and itmes by scriptable objects. (2015)
 
-VR: A few helpful scripts I wrote for VR Interaction. (2017)
+VR: A few helpful scripts I wrote for VR interaction. (2017)
